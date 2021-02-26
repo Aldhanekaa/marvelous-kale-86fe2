@@ -41,7 +41,9 @@ sections:
       - title: Website Design
         image: images/service-1.svg
         content: |-
-          - Figma
+          - HTML, CSS, JS
+          - Reactjs
+          - Nextjs, Gatsby
       - title: Make Website
         image: images/service-2.svg
         content: |-
