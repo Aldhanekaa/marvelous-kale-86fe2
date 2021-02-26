@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: Welcome to Aldhaneka site.
     content: >
-      Welcome mates! Glad you here, my name is Aldhan, I'm a javascript
-      developer. Work on PaGe. [Let's talk](/contact/).
+      Welcome mates! Glad you here, my name is Aldhan, 13 y.o. I'm a javascript
+      developer, and Web Developer. Work on PaGe. [Let's talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
