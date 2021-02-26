@@ -51,7 +51,7 @@ sections:
       - title: Make Website
         image: images/service-2.svg
         content: |-
-          - Brand development
+          - HTML, CSS, JS
           - Naming
           - Brand identity
           - Design systems
