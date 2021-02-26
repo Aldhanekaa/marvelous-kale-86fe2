@@ -47,7 +47,7 @@ sections:
       - title: Backend
         image: images/service-2.svg
         content: |-
-          - HTML, CSS, JS
+          - Nodejs
           - ReactJS
           - Nextjs, Gatsby
 
