@@ -52,7 +52,7 @@ sections:
         image: images/service-2.svg
         content: |-
           - HTML, CSS, JS
-          - Naming
+          - ReactJS
           - Brand identity
           - Design systems
           - Concept development
