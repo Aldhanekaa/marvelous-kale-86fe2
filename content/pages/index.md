@@ -41,7 +41,7 @@ sections:
       - title: Website Design
         image: images/service-1.svg
         content: |-
-          - HTML, CSS, JS
+          - HTML, CSS / SASS / SCSS, JS
           - Reactjs
           - Nextjs, Gatsby
       - title: Backend
