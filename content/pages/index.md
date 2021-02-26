@@ -54,10 +54,7 @@ sections:
           - HTML, CSS, JS
           - ReactJS
           - Nextjs, Gatsby
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+
       - title: Make IOS-Android Apps
         image: images/service-3.svg
         content: |
