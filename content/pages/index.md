@@ -59,13 +59,7 @@ sections:
         image: images/service-3.svg
         content: |
           *   React Native
-          *   Service design
-          *   Environmental and retail design
-          *   Packaging design
-          *   Art direction
-          *   Communication design
-          *   Social media
-          *   Product design
+
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
