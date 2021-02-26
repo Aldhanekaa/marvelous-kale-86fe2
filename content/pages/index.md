@@ -48,8 +48,7 @@ sections:
         image: images/service-2.svg
         content: |-
           - Nodejs
-          - ReactJS
-          - Nextjs, Gatsby
+          - MongoDB
 
       - title: Make IOS-Android Apps
         image: images/service-3.svg
