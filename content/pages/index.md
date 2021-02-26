@@ -53,7 +53,7 @@ sections:
         content: |-
           - HTML, CSS, JS
           - ReactJS
-          - Brand identity
+          - Nextjs, Gatsby
           - Design systems
           - Concept development
           - Brand implementation and management
