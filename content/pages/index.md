@@ -38,7 +38,7 @@ sections:
     subtitle: What I do
     col_number: three
     grid_items:
-      - title: Business design
+      - title: Website Design
         image: images/service-1.svg
         content: |-
           - Research and insight
